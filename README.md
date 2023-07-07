@@ -1,4 +1,11 @@
-### Hi there 👋🏻 
+### 
+<h1>Hi there 👋🏻 </h1>
+
+<ul> 
+  <li>👩🏼‍💻 full-time product manager </li>
+  <li>🛠️ part-time ruby dev in training</li>
+  <li>🍜 foodie and 👟 fitness junkie the rest of the time</li>
+</ul>
 
 
 <!--
