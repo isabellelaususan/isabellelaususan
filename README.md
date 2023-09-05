@@ -3,7 +3,7 @@
 
 <ul> 
   <li>👩🏼‍💻 full-time product manager </li>
-  <li>🛠️ part-time ruby dev in training</li>
+  <li>🛠️ part-time dev in training</li>
   <li>🍜 foodie and 👟 fitness junkie the rest of the time</li>
 </ul>
 
