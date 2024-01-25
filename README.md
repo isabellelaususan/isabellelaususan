@@ -1,5 +1,5 @@
 ### 
-<h1>Hi there 👋🏻 </h1>
+<h1>Hi there, I'm Isabelle 👋🏻 </h1>
 
 <ul> 
   <li>👩🏼‍💻 full-time product manager </li>
